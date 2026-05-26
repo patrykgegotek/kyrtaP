@@ -10,3 +10,5 @@ Składniki na farsz
 
 Dupa nieraz królów dawnych mianowała
 Dupa też ich detronizowała
+
+https://github.com/machacz/g-eg-ka/tree/dev
